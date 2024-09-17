@@ -2,7 +2,7 @@
 
 ---
 
-Create an html web app using HTML, Java script, and CSS. This app will have the workflow referenced below. This app will have 2 functions see details below. All web app code must be annotated with very details comments easily understood by humans. ensure the Matrix effect and the Banner effect are correctly implemented and don't interfere with each other
+Create an html web app using HTML, Java script, and CSS. This app will have the workflow referenced below. This app will have 2 functions see details below. All web app code must be annotated with very details comments easily understood by humans.  Ensure the Matrix effect and the Banner effect are correctly implemented and don't interfere with each other
 
 APP Workflow:
 
