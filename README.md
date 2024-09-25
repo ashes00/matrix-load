@@ -5,3 +5,5 @@ This is not intended to be used as a primary website landing page.
 Its ideal for redirecting users from a parked domain to your primary domain.
 
 ![Screen](/images/screen.png)
+
+**Misc:** This is a Generative AI created program that was crafted from a PROMPT file.  See PROMPT.md for details.
